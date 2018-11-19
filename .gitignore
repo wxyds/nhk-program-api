@@ -1,0 +1,13 @@
+### Java ###
+bin
+
+### Gradle ###
+.gradle
+build
+gradle
+
+### STS ###
+.classpath
+.project
+.settings
+.springBeans

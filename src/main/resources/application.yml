@@ -1,0 +1,4 @@
+nhk:
+  base-uri: http://api.nhk.or.jp/v2/pg
+  request-params:
+    key:
