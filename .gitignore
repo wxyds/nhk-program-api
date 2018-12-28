@@ -8,6 +8,5 @@ gradle
 
 ### STS ###
 .classpath
-.project
 .settings
 .springBeans
